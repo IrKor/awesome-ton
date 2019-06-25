@@ -43,8 +43,8 @@ A curated list of awesome TON ecosystem.
 
 ## Community
 
-- [Telegram TON Research public group](https://t.me/ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
-- [Telegram chat in Russian](https://t.me/TONgramDev)
+- [Telegram TON Research public group](tg://resolve?domain=ton_research) - With fan-developer updates about status of peoject and point to ask your quesitons.
+- [Telegram chat in Russian](tg://resolve?domain=TONgramDev)
 
 ## Tutorials
 
@@ -60,9 +60,9 @@ A curated list of awesome TON ecosystem.
 - [TON mirror repo with updates builds binaries and docker container](https://github.com/poma/ton-lite-client) (former TON-mirror) - Updates on any changes in source code https://test.ton.org/download any 5 minutes.
 
 ## Telegram Bots
-- [@Gram 50 bot](https://t.me/gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
-- Telegram bot post message about updates to the [telegram channel](https://t.me/TrackingTONupdates) - with any new commits into original repo.
-- [@testnetstatus](https://t.me/testnetstatus) - Telegram channel that displays if the testnet is up or down.
+- [@Gram 50 bot](tg://resolve?domain=gram50bot) - TON wallet. Allows to create wallet / sent transactions on testnet.
+- Telegram bot post message about updates to the [telegram channel](tg://resolve?domain=TrackingTONupdates) - with any new commits into original repo.
+- [@testnetstatus](tg://resolve?domain=testnetstatus) - Telegram channel that displays if the testnet is up or down.
 
 
 ## Faucet
